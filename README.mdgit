@@ -1,0 +1,1 @@
+"# laravelapp19"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/MR-M4RV1N/laravelapp19.gitgit push -u origin master
